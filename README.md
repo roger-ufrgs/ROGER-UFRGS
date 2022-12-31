@@ -5,4 +5,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROGER-UFRGS&show_icons=true&theme=dracula)
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
+
