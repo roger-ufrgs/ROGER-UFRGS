@@ -1,8 +1,8 @@
 ## Olá, seja bem vindo! :wave:
 
 ```
-  Hoje sou servido público, trabalho como técnico em Sistemas da Informação na UFRGS, mas procuro trabalhos como freelancer e colaborar em
-  trabalhos voluntários na área de tecnologia da informação.
+  Hoje sou servido público, trabalho como técnico em Sistemas da Informação na UFRGS, mas procuro trabalhos como 
+  freelancer e colaborar em trabalhos voluntários na área de tecnologia da informação.
 
 ```
 
