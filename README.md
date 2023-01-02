@@ -3,24 +3,25 @@
   
   #### Sobre mim
   Meu nome é **_Roger_** e hoje sou servidor público, trabalho como técnico em Sistemas da Informação na UFRGS, 
-  mas procuro projetos e trabalhos como freelancer e voluntários na área de tecnologia da informação, para aprimorar 
+  mas procuro projetos e trabalhos como freelancer e também projetos voluntários na área de tecnologia da informação, para aprimorar 
   meus conhecimentos.
   
   ##### Contato
 
   <img src="https://icongr.am/simple/whatsapp.svg?size=16&color=colored=false" alt="WhatsApp" />&nbsp;&nbsp;(51)9 8533-4581
   
-  <img src="https://icongr.am/entypo/email.svg?size=16&color=colored=false" alt="Email" />&nbsp;&nbsp;roger.moura@ufrgs,br
+  <img src="https://icongr.am/entypo/email.svg?size=16&color=colored=false" alt="Email" />&nbsp;&nbsp;roger.moura@ufrgs.br
   
   
   <details>
   <summary markdown="span"><b>Técnologias WEB</b></summary>
     <br/>
-    <img src="https://icongr.am/devicon/css3-plain.svg?size=32&color=currentColor" alt="CSS" />&nbsp;&nbsp;&nbsp;
-    <img src="https://icongr.am/devicon/html5-plain.svg?size=32&color=currentColor" alt="HTML5" />&nbsp;&nbsp;&nbsp;
-    <img src="https://icongr.am/simple/javascript.svg?size=32&color=colored=false" alt="JAVASCRIPT" />&nbsp;&nbsp;&nbsp;
-    
-  </details>
+    <img src="https://icongr.am/devicon/css3-plain.svg?size=32&color=currentColor" title="CSS" />&nbsp;&nbsp;&nbsp;
+    <img src="https://icongr.am/devicon/html5-plain.svg?size=32&color=currentColor" title="HTML5" />&nbsp;&nbsp;&nbsp;
+    <img src="https://icongr.am/simple/javascript.svg?size=32&color=colored=false" title="JAVASCRIPT" />&nbsp;&nbsp;&nbsp;
+    <img src="https://icongr.am/simple/react.svg?size=32&color=colored=false" title="REACT" />&nbsp;&nbsp;&nbsp;
+    <img src="https://icongr.am/simple/sass.svg?size=32&color=colored=false" title="SASS"/>&nbsp;&nbsp;&nbsp;
+  </details> 
   
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROGER-UFRGS)](https://github.com/ROGER-UFRGS/ROGER-UFRGS)
