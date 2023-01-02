@@ -6,6 +6,21 @@
   mas procuro projetos e trabalhos como freelancer e também projetos voluntários na área de tecnologia da informação, para aprimorar 
   meus conhecimentos.
   
+  ---
+ 
+  ### Formação
+ 
+  Hoje estou cursando Análise e Desenvolvimendo de Sistemas no [IFRGS](https://ifrs.edu.br/restinga/), estou sempre em busca de conhecimento
+  fazendo novos cursos e praticando programação.
+  
+  - [x] Técnico em Informática 
+  - [ ] Técnologo em Análise e Desenvolvimento de Sistemas **( Em andamento )**
+  - [x] Cursos Alura [Certificados](https://cursos.alura.com.br/user/rogermoraes/fullCertificate/8afe7323856249c73fe99086157110e2) 
+  - [X] Perfil [Udemy](https://www.udemy.com/user/roger-moraes-de-moura/) 
+  - [x] Perfil [BeeCrowd](https://www.beecrowd.com.br/judge/pt/profile/287838)
+  
+  ---
+  
   ##### Contato
 
   <img src="https://icongr.am/simple/whatsapp.svg?size=16&color=colored=false" alt="WhatsApp" />&nbsp;&nbsp;(51)9 8533-4581
