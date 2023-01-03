@@ -24,12 +24,11 @@
   
   ### Contato
   
-  
-  <img src="https://icongr.am/simple/whatsapp.svg?size=16&color=colored=false" alt="WhatsApp" />&nbsp;&nbsp;(51)9 8533-4581
-  
-  <img src="https://icongr.am/entypo/email.svg?size=16&color=colored=false" alt="Email" />&nbsp;&nbsp;roger.moura@ufrgs.br
-  
-  
+  WHATSAPP | E_MAIL | LINKEDIN
+  :---: | :---: | :---: 
+<a href="https://wa.link/3co9ze"><img src="https://icongr.am/simple/whatsapp.svg?size=48&color=colored=false" alt="WhatsApp"/></a>|<a href="mailto:roger.moura@ufrgs.br?subject=Contato via GitHub"><img src="https://icongr.am/entypo/email.svg?size=48&color=colored=false" alt="Email" /></a>|<a href="https://www.linkedin.com/in/rogermoraesdemoura/"><img src="https://icongr.am/entypo/linkedin.svg?size=48&color=colored=false" alt="Email" /></a>
+
+
   ---
   
   ### Técnologias
