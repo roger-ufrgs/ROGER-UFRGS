@@ -1,4 +1,4 @@
-## Olá, seja bem vindo! :wave:
+## Olá, seja bem vindo! :wave: ![](https://komarev.com/ghpvc/?username=ROGER-UFRGS&label=VISITANTE)
 
   
   #### Sobre mim
@@ -51,10 +51,9 @@
   <img src="https://icongr.am/simple/windows.svg?size=32&color=colored=false" title="WINDOWS"/>&nbsp;&nbsp;&nbsp;
   <img src="https://icongr.am/simple/wordpress.svg?size=32&color=colored=false" title="WORDPRESS"/>&nbsp;&nbsp;&nbsp;
   
-    
-  ---
-  
 
+  
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROGER-UFRGS)](https://github.com/ROGER-UFRGS/ROGER-UFRGS)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROGER-UFRGS&show_icons=true&theme=graywhite)
   ![snake gif](https://github.com/ROGER-UFRGS/ROGER-UFRGS/blob/output/github-contribution-grid-snake.svg)
