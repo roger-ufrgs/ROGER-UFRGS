@@ -3,8 +3,8 @@
   
   #### Sobre mim
   Meu nome é **_Roger_** e hoje sou servidor público, trabalho como técnico em Sistemas da Informação na UFRGS, 
-  mas procuro projetos e trabalhos como freelancer e também projetos voluntários na área de tecnologia da informação, para aprimorar 
-  meus conhecimentos.
+  mas procuro trabalhos como freelancer, projetos voluntários na área de tecnologia da informação para agregar mais
+  conhecimento e experiências profissionais.
   
   ---
  
