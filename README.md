@@ -54,6 +54,6 @@
 
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROGER-UFRGS&layout=compact)](https://github.com/ROGER-UFRGS/github-readme-stats)
-  ![ROGER's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROGER-UFRGS&show_icons=true&theme=graywhite)
+ ![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROGER-UFRGS&count_private=true)
   ![snake gif](https://github.com/ROGER-UFRGS/ROGER-UFRGS/blob/output/github-contribution-grid-snake.svg)
 
