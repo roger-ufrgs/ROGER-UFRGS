@@ -53,8 +53,7 @@
   
 
   
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROGER-UFRGS)](https://github.com/ROGER-UFRGS/ROGER-UFRGS)
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROGER-UFRGS&show_icons=true&theme=graywhite)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROGER-UFRGS&layout=compact)](https://github.com/ROGER-UFRGS/github-readme-stats)
+  ![ROGER's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROGER-UFRGS&show_icons=true&theme=graywhite)
   ![snake gif](https://github.com/ROGER-UFRGS/ROGER-UFRGS/blob/output/github-contribution-grid-snake.svg)
 
