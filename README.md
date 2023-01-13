@@ -18,6 +18,7 @@
   - [x] Cursos Alura [Certificados](https://cursos.alura.com.br/user/rogermoraes/fullCertificate/8afe7323856249c73fe99086157110e2) 
   - [X] Perfil [Udemy](https://www.udemy.com/user/roger-moraes-de-moura/) 
   - [x] Perfil [BeeCrowd](https://www.beecrowd.com.br/judge/pt/profile/287838)
+  - [x] Perfil [HackerHANK](https://www.hackerrank.com/rogermoraes2016) 
   
   
   ---
