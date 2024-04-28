@@ -2,20 +2,27 @@
 
   
   #### Sobre mim
-  Meu nome é **_Roger_** e hoje sou servidor público, trabalho como técnico em Sistemas da Informação na UFRGS, 
-  mas procuro trabalhos como freelancer, projetos voluntários na área de tecnologia da informação para agregar mais
-  conhecimento e experiências profissionais.
-  
+ Atualmente, atuo como servidor público na Universidade Federal do Rio Grande do Sul (UFRGS), desempenhando a função de Técnico em Sistemas da Informação.
+ Apesar de minha posição estável, estou em busca de oportunidades adicionais para expandir minha experiência e conhecimento na área de tecnologia da informação. Estou aberto a trabalhos como freelancer e projetos voluntários que possam enriquecer ainda mais minha   
+ bagagem profissional.
+
+ Minha paixão pela tecnologia e minha sede por aprendizado me impulsionam a explorar novos desafios e a me manter atualizado com as tendências e avanços do setor. Estou comprometido em oferecer soluções de qualidade e contribuir de forma significativa para os projetos 
+ nos quais me envolvo.
+
+ Agradeço a oportunidade de poder compartilhar um pouco sobre minha jornada e estou entusiasmado para descobrir as possibilidades que o futuro reserva.
+
   ---
  
   ### Formação
  
-  Hoje estou cursando Análise e Desenvolvimendo de Sistemas no [IFRGS](https://ifrs.edu.br/restinga/), estou sempre em busca de conhecimento
-  fazendo novos cursos e praticando programação.
+  Sou formado em Análise e Desenvolvimento de Sistemas, e desde então, tenho embarcado em uma jornada apaixonante pelo vasto mundo da tecnologia.
+  Durante minha graduação, mergulhei fundo no estudo de programação, desenvolvimento de software e análise de sistemas, adquirindo uma base sólida de conhecimento e habilidades.
+  Hoje, estou em busca de novas oportunidades para aplicar e expandir o que aprendi. Estou aberto a trabalhos como freelancer e projetos voluntários na área de tecnologia da informação, 
+  ansioso para agregar mais experiências e conhecimentos à minha jornada profissional.
   
-  - [] Técnico em Eletrônica ( Em andamento )
+  - [ ] Técnico em Eletrônica **( Em andamento )**
   - [x] Técnico em Informática 
-  - [X] Técnologo em Análise e Desenvolvimento de Sistemas **( Em andamento )**
+  - [X] Técnologo em Análise e Desenvolvimento de Sistemas 
   - [x] Cursos Alura [Certificados](https://cursos.alura.com.br/user/rogermoraes/fullCertificate/8afe7323856249c73fe99086157110e2) 
   - [X] Perfil [Udemy](https://www.udemy.com/user/roger-moraes-de-moura/) 
   - [x] Perfil [BeeCrowd](https://www.beecrowd.com.br/judge/pt/profile/287838)
