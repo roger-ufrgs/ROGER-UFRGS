@@ -21,8 +21,9 @@
   ansioso para agregar mais experiências e conhecimentos à minha jornada profissional.
   
   - [ ] Técnico em Eletrônica **( Em andamento )**
-  - [x] Técnico em Informática 
-  - [X] Técnologo em Análise e Desenvolvimento de Sistemas 
+  - [x] Técnico em Informática ( Faculdades QI )
+  - [X] Superior em Análise e Desenvolvimento de Sistemas ( IFRS ) 
+  - [X] Especialização em Desenvolvimento De Sistemas Java ( Faculdade foz do Iguaçu )
   - [x] Cursos Alura [Certificados](https://cursos.alura.com.br/user/rogermoraes/fullCertificate/8afe7323856249c73fe99086157110e2) 
   - [X] Perfil [Udemy](https://www.udemy.com/user/roger-moraes-de-moura/) 
   - [x] Perfil [BeeCrowd](https://www.beecrowd.com.br/judge/pt/profile/287838)
