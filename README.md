@@ -9,7 +9,7 @@
  Minha paixão pela tecnologia e minha sede por aprendizado me impulsionam a explorar novos desafios e a me manter atualizado com as tendências e avanços do setor. Estou comprometido em oferecer soluções de qualidade e contribuir de forma significativa para os projetos 
  nos quais me envolvo.
 
- Agradeço a oportunidade de poder compartilhar um pouco sobre minha jornada e estou entusiasmado para descobrir as possibilidades que o futuro reserva.
+Agradeço pela oportunidade de compartilhar um pouco da minha trajetória. Estou animado com as possibilidades que o futuro reserva e sigo motivado a evoluir continuamente.
 
   ---
  
