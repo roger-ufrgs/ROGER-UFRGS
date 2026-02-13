@@ -62,8 +62,3 @@ Agradeço pela oportunidade de compartilhar um pouco da minha trajetória. Estou
   <img src="https://icongr.am/simple/wordpress.svg?size=32&color=colored=false" title="WORDPRESS"/>&nbsp;&nbsp;&nbsp;
   
 
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ROGER-UFRGS&show_icons=true&theme=transparent)](https://github.com/ROGER-UFRGS/github-readme-stats)
- ![Roger's GitHub stats](https://github-readme-stats.vercel.app/api?username=ROGER-UFRGS&count_private=true)
-  ![snake gif](https://github.com/ROGER-UFRGS/ROGER-UFRGS/blob/output/github-contribution-grid-snake.svg)
-
